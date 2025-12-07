@@ -1,7 +1,7 @@
 </head>
 <body>
 
-<h1>Full Hackpad – 12 Key Macro Pad with Encoder</h1>
+<h1>Full Hackpad – 12 Key Macro Pad with Encoder(was asited in with produtuion by AI ONLY A FEW THINGS. my bad I knwo a bit of html)</h1>
 <div class="section">
 <h2>All Images</h2>
 <table>
@@ -29,10 +29,10 @@
 </div>
 
 <div class="section">
-<h2>💻 Firmware Overview</h2>
-<p>The code is designed to be a <strong>largley configurable macropad</strong>. Each key can be assigned shortcuts, macros, or other functions.</p>
+<h2>Firmware Overview</h2>
+<p>The code is designed to be a configurable macropad. Each key can be assigned to shortcuts, macros, or other functions.</p>
 <ul>
-    <li>Rotary encoder os <strong>volume control</strong>.</li>
+    <li>Rotary encoder for <strong>volume control</strong>.</li>
 </ul>
 </div>
 
