@@ -1,7 +1,7 @@
 </head>
 <body>
 
-<h1>Full Hackpad – 12 Key Macro Pad with Encoder(was asited in with produtuion by AI ONLY A FEW THINGS. my bad I knwo a bit of html)</h1>
+<h1>Full Hackpad – 12 Key Macro Pad with Encoder(ok that was a bit rude from me sorry)</h1>
 <div class="section">
 <h2>All Images</h2>
 <table>

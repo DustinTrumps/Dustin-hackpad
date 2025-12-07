@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../../../Downloads/")
 		)
 	)
 	(net 0 "")
@@ -4891,7 +4891,7 @@
 	)
 	(gr_text "Dustin's \nmacro\npad"
 		(at 112 35 0)
-		(layer "F.Cu")
+		(layer "B.SilkS")
 		(uuid "66aa12d9-ba60-483e-9efc-366170524977")
 		(effects
 			(font
@@ -4904,7 +4904,7 @@
 	)
 	(gr_text "plant \nSeeed \nhere"
 		(at 130.5 36 0)
-		(layer "F.Cu")
+		(layer "B.SilkS")
 		(uuid "890c83f5-c889-4307-b43f-fc8c03e4b541")
 		(effects
 			(font
