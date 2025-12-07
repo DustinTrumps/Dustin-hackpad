@@ -1,7 +1,7 @@
-!hackpad photo(https://github.com/DustinTrumps/Dustin-hackpad/blob/main/imges/full_hackpad.png?raw=true)
-!scematic.png(https://github.com/DustinTrumps/Dustin-hackpad/blob/main/imges/scematic.png?raw=true)
-!PCB.png(https://github.com/DustinTrumps/Dustin-hackpad/blob/main/imges/PCB.png?raw=true)
-!fit.png(https://github.com/DustinTrumps/Dustin-hackpad/blob/main/imges/fit.png?raw=true)
+<img src=imges/full_hackpad.png alt="full" width="300"/>
+<img src=imges/scematic.png alt="scematic" width="300"/>
+<img src=imges/PCB.png alt="PCB" width="300"/>
+<img src=imges/fit.png alt="fit" width="300"/>
 
 Firmware Overview
 i am making it as a macro pad that can be configured to do what ever i want the encoder is for valume
