@@ -1,7 +1,7 @@
 </head>
 <body>
 
-<h1>Full Hackpad – 12 Key Macro Pad with Encoder(ok that was a bit rude from me sorry)</h1>
+<h1>Full Hackpad – 12 Key Macro Pad with Encoder(ok that was a bit rude from me sorry,but thanks for having me remake the full asmbaly it shouwd me that i had to remake my pcb and cad)</h1>
 <div class="section">
 <h2>All Images</h2>
 <table>
