@@ -2,7 +2,7 @@
 <body>
 
 <h1>Full Hackpad – 12 Key Macro Pad with Encoder(ok that was a bit rude from me sorry,but thanks for having me remake the full asmbaly it shouwd me that i had to remake my pcb and cad)</h1>
-<div class="section">
+<div>
 <h2>All Images</h2>
 <table>
 <tr>
@@ -28,7 +28,7 @@
 </table>
 </div>
 
-<div class="section">
+<div>
 <h2>Firmware Overview</h2>
 <p>The code is designed to be a configurable macropad. Each key can be assigned to shortcuts, macros, or other functions.</p>
 <ul>
@@ -36,7 +36,7 @@
 </ul>
 </div>
 
-<div class="section">
+<div>
 <h2>Bill of Materials (BOM)</h2>
 <table>
 <tr>
@@ -52,11 +52,12 @@
 <tr><td>M3x12mm SHCS Bolts</td><td>4</td><td></td></tr>
 <tr><td>Seeed XIAO RP2040</td><td>1</td><td></td></tr>
 <tr><td>PCB</td><td>1</td><td></td></tr>
-<tr><td>3D Printed Case (2 parts)</td><td>1 Set</td><td>Top + bottom shell</td></tr>
+<tr><td>1 by 7 male header pins</td><td>2</td><td></td></tr>
+<tr><td>3D Printed Case (2 parts)</td><td>1 Set</td><td>Hackpad bottom +Hackpad top , 3d print files in CAD/3D PRINTED PARTS</td></tr>
 </table>
 </div>
 
-<div class="section">
+<div>
 <h2>Assembly Steps</h2>
 <ol>
     <li>Install <strong>heat-set brass inserts</strong>.</li>
